@@ -1,0 +1,1 @@
+INSERT INTO tb_colaboradores (nome, email, cpf, cargo) VALUES (Gabriel Melo Dias, gbdebh03@gmail.com, 234.456.567-11, 3);
